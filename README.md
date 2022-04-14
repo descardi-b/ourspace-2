@@ -1,4 +1,4 @@
-# ourspce.
+# ourspace.
 welcome to the new space — our space.
 
 ## what you can do
@@ -21,3 +21,8 @@ This app was created for the UC Berkeley Full Stack Development course. It utili
 - ESLint
 - Handlebars 
 
+## Images
+
+Here's a pic of our working app.
+
+<img src="./images/ourspace-img.png">
